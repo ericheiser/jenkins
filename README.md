@@ -1,5 +1,7 @@
 # Habitat package: jenkins
 
+[![Build Status](https://jmery-chef.visualstudio.com/Jenkins-Habitat/_apis/build/status/Jenkins-Habitat-CI?branchName=master)](https://jmery-chef.visualstudio.com/Jenkins-Habitat/_build/latest?definitionId=4?branchName=master)
+
 ## Description
 
 Build an run Jenkins preconfigured for CI/CD with habitat.
